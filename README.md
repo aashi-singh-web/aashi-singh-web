@@ -11,6 +11,8 @@
 - Writing efficient, scalable backend logic  
 - Solving real-world problems through code  
 - Growing every day with new tools & technologies
+  
+🤝 Team Player: I enjoy working with others to solve problems — whether it's pair programming, brainstorming over bugs, or just sharing tips. I believe progress happens faster (and more enjoyably) when we build together.
 
 ---
 
@@ -21,7 +23,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-black?style=flat&logo=EJS&logoColor=white)
@@ -56,5 +57,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashi-singh-connect/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashi.singh.career@gmail.com)
 
 ---
+### ⌨️ Fun Fact about me
+I once typed git push origin main with confidence...on the wrong repo🙃
 
-🌟 *“The best way to learn is by building. Keep exploring, keep coding.”*
+
+
+---
+🌟 *Thanks for visiting! Let’s connect or collaborate — always open to learning and building cool stuff together.*
+
