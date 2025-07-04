@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashi Singh</h1>
-<h3 align="center">Curious | Consistent | Creative</h3>
+<h3 align="center">Curious | Steady Contributor | Always exploring</h3>
 
 ---
 
